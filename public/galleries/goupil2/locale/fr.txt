@@ -60,8 +60,8 @@ window_95F3769E_B137_F5F1_41C7_204A92CCE95B.title = Super joli petit Goupil
 ## Hotspot
 
 ### URL
-overlay_AD79024C_B0CF_AD51_41E1_FF75F32E489F.url = https://res.cloudinary.com/goupil/image/upload/v1643644985/fox-vt_en103h.jpg
-overlay_AED589D6_B0FF_9F71_41E1_8919BE6901FF.url = https://res.cloudinary.com/goupil/image/upload/v1643644985/fox-vt_en103h.jpg
+overlay_AD79024C_B0CF_AD51_41E1_FF75F32E489F.url = https://res.cloudinary.com/goupil/image/upload/v1643644985/fox-vt1.jpg
+overlay_AED589D6_B0FF_9F71_41E1_8919BE6901FF.url = https://res.cloudinary.com/goupil/image/upload/v1643644985/fox-vt1.jpg
 
 ## Action
 
