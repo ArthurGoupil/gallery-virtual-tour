@@ -1,6 +1,6 @@
 import React from "react";
 
-const GoupilGallery: React.FC = () => {
+const GoupilGallery2: React.FC = () => {
   const [open, setIsOpen] = React.useState(false);
 
   return (
@@ -26,4 +26,4 @@ const GoupilGallery: React.FC = () => {
   );
 };
 
-export default GoupilGallery;
+export default GoupilGallery2;
